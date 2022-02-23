@@ -1,0 +1,8 @@
+.test {
+  width: 150px;
+  height: 150px;
+  display: flex;
+  flex-grow: 1;
+  background-color:beige;
+  color: red;
+}
