@@ -13,7 +13,7 @@ import router from '@/router'
 console.log(1)
 console.log(2)
 console.log(3)
-
+console.log("git merge" )
 new Vue({
   router,
   render: h => h(App)
