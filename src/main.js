@@ -13,7 +13,6 @@ import router from '@/router'
 console.log(1)
 console.log(2)
 console.log(3)
-console.log("FFF")
 
 console.log("git merge" )
 console.log("继续开发，并完成" )
