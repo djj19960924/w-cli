@@ -15,6 +15,11 @@ console.log('git rebase')
 console.log("继续开发，并完成" )
 console.log('git rebase')
 console.log("继续开发，并完成" )
+<<<<<<< HEAD
+=======
+console.log('git rebase')
+console.log("继续开发，并完成" )
+>>>>>>> 1a95277a8b8df3c47248d8ff0f1638c357246571
 console.log("继续开发，并完成" )
 new Vue({
   router,
