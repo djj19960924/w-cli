@@ -16,6 +16,7 @@ console.log(3)
 
 console.log("git merge" )
 console.log("继续开发，并完成" )
+console.log('git rebase')
 new Vue({
   router,
   render: h => h(App)
