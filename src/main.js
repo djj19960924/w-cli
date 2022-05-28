@@ -20,6 +20,7 @@ console.log('git rebase')
 console.log("继续开发，并完成" )
 console.log('git rebase')
 console.log("继续开发，并完成" )
+console.log("继续开发，并完成" )
 new Vue({
   router,
   render: h => h(App)
